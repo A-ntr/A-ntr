@@ -23,7 +23,6 @@ I'm building a model that gives every flight on tomorrow's schedule a delay-risk
 | --- | --- | --- |
 | [delta-delay-risk](https://github.com/A-ntr/delta-delay-risk) | Night-before delay risk tiers for airline ops planners. The model predicts the probability of a delay over 15 minutes and thresholds it into low, medium, and high. Every feature is knowable the night before, and the train/test split is chronological. In progress. | Python |
 | [AVL](https://github.com/A-ntr/AVL) | A custom AVL tree that indexes University of Florida student account records by GatorID. | C++, CMake |
-| [neetcode-submissions](https://github.com/A-ntr/neetcode-submissions) | My solutions to NeetCode.io problems. | Python |
 
 ## Right now
 
